@@ -25,4 +25,4 @@ commit-command-output*.json
 *.njsproj
 *.sln
 .gitkeep
-.compile_and_mass.sh
+compile_and_mass.sh
